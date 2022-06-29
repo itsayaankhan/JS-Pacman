@@ -533,7 +533,8 @@ function animate() {
 
   // win condition goes here
   if (pellets.length === 0) {
-    console.log('you win')
+    alert('you win')
+    document.location.reload(true)
     cancelAnimationFrame(animationId)
   }
 
