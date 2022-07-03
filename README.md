@@ -1,4 +1,4 @@
-#JS Pacman
+#JS Pacman<br>
 The rights of this game go to @Chris Courses. 
 
 You can check out his courses here: https://chriscourses.com/
