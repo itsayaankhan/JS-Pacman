@@ -1,7 +1,9 @@
-The rights of this game go to <p href="https://chriscourses.com/">@Chris Courses</p>. I was simply using his course for learning purposes, as well as modifying a few parts of the code.
+#JS Pacman
+The rights of this game go to @Chris Courses. 
 
-# JS Pacman
-The classic arcade game of Pacman running with the HTML5 canvas and vanilla JavaScript.
+You can check out his courses here: https://chriscourses.com/
+
+I was simply using his course for learning purposes, as well as modifying a few parts of the code.
 
 Try Now: https://lambent-semolina-c925c7.netlify.app/
 
