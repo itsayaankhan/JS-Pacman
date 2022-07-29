@@ -1,9 +1,4 @@
 #JS Pacman<br>
-The rights of this game go to @Chris Courses. 
-
-You can check out his courses here: https://chriscourses.com/
-
-I was simply using his course and code for learning purposes, as well as modifying a few parts of the code.
 
 Try Now: https://lambent-semolina-c925c7.netlify.app/
 
